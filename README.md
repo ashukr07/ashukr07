@@ -1,14 +1,16 @@
 <h1>Hi 👋, I'm Ashutosh Kumar Roy</h1>
-<img alt="code" width=400 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNqd3o2ZWloem53cG5sMnM4cW1jcm8zNmoyd2IwYjJwaWZlaDg3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" >
+<div align="center">
+  <img alt="code" width=400 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNqd3o2ZWloem53cG5sMnM4cW1jcm8zNmoyd2IwYjJwaWZlaDg3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" >
+</div>
 
 
 # 💫 About Me:
 
 - 🔭 I’m currently studying in **NIT Trichy**
 
-- 🌱 I’m currently learning **React,React Native, Deep Learning**
+- 🌱 I’m currently learning **Cloud Computing, Blockchain, Artificial Intelligence, LLMs**
 
-- 💬 Ask me about **Node, JavaScript, C++, HTML, CSS, SQL**
+- 💬 Ask me about **Node.js, JavaScript, C++, HTML, PostgreSQL, MongoDB, Next.js, React**
 
 - 📫 How to reach me **ashutoshroy3434@gmail.com**
 
