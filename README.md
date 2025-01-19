@@ -20,7 +20,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100073451861040) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashutosh_kr03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshroy03) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ashutoshroy3434) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20962292) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ashutoshroy2003) 
 
-## Coding Platforms 
+## 👩‍💻Coding Platforms:
 <a href="https://www.codechef.com/users/munshi_25" target="_blank"><img src="https://img.icons8.com/?size=100&id=LnZMjt9rZC3d&format=png&color=000000" align="center" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/h107121014" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h107121014" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/munshi_25" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="munshi_25" height="30" width="40" /></a>
