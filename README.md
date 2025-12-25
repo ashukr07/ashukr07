@@ -6,9 +6,9 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently studying in **NIT Trichy**
+- 🔭 I’m currently working in **Citi**
 
-- 🌱 I’m currently learning **Cloud Computing, Blockchain, Artificial Intelligence, LLMs**
+- 🌱 I’m currently learning **Data Science, Cloud Computing, DevOps, AI**
 
 - 💬 Ask me about **Node.js, JavaScript, C++, HTML, PostgreSQL, MongoDB, Next.js, React**
 
