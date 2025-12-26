@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ashutoshroy3434@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1igBDEAtXqC1fzuMwSHGR3UpIrJ6kEzm6/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1y-nZquNPKVeV-dUslBhmziaedY55Sm_4/view?usp=sharing)
 
 
 ## 🌐 Socials:
